@@ -1,0 +1,143 @@
+#Intro{
+    text-align: center;
+}
+#head{
+    background-image:url(https://cdn.wallpapersafari.com/8/33/oGrcgu.jpg);
+    width: auto;
+    height: 600px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size:x-large;
+}
+#photos{
+    height: 300px;
+    width: 223px;
+}
+#names{
+    text-align: center;
+    padding-top: 50px;
+}
+#Heading{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 50px;
+}
+#Batton{
+    margin-top: 10px;
+    background-color: crimson;
+    border-radius: 0px;
+    border-color: crimson;
+    font-family: 'Bebas Neue', cursive;
+    height: 40px;
+    width: 100px;
+    font-size: 25px;
+}
+
+#button{
+    margin-top: 10px;
+    background-color: crimson;
+    border-radius: 0px;
+    border-color: crimson;
+    font-family: 'Bebas Neue', cursive;
+    height: 40px;
+    width: 100px;
+    font-size: 25px;
+}
+#Names{
+    font-family: 'Bebas Neue', cursive;
+}
+#jungkook{
+    background-color: yellow;
+}
+#jungkook_name{
+    text-align: left;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    margin-left: 20px;
+}
+#jungkook_photo{
+    margin-left: 20px;
+    height: 500px;
+    width: 350px;
+}
+#jungkook_para{
+    text-align: left;
+    margin-left: 20px;
+    margin-right:20px;
+    font-family: 'Saira Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    color : red;
+    
+}
+#v_name{
+    text-align: right;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    margin-right: 20px;
+}
+#v_photo{
+    margin-left: 930px;
+    height: 500px;
+    width: 380px;
+
+}
+
+#v{
+    background-color: limegreen;
+}
+
+#v_para{
+    text-align: right;
+    margin-left: 20px;
+    margin-right:20px;
+    font-family: 'Saira Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+#j-hope_photo{
+    margin-left: 960px;
+    height: 500px;
+    width: 350px;
+}
+
+
+
+#j-hope{
+    background-color : rgb(255, 51, 0);
+}
+#jimin{
+    background-color:  rgb(0, 247, 255);
+}
+#suga{
+    background-color:rgb(255, 0, 191);
+}
+#RM{
+    background-color:  rgb(224, 49, 224);
+
+
+}
+
+
+#jin{
+    background-color: rgb(255, 196, 0) ;
+}
+#rm_photo{
+    margin-left: 20px;
+    height: 500px;
+    width: 335px;
+}
+#music_vid{
+    margin-top: 30px;
+}
+#Videos{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 40px;
+}
+#Click{
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+}
+#Interveiws{
+    background-color:#c7c7c7;
+}
